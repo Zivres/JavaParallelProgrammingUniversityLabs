@@ -1,4 +1,4 @@
-package ru.spbstu.telematics.java;
+package ru.spbstu.telematics.java.lab1;
 
 import java.util.Random;
 

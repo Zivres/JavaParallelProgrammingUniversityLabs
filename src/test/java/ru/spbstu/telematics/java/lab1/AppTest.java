@@ -1,10 +1,12 @@
-package ru.spbstu.telematics.java;
+package ru.spbstu.telematics.java.lab1;
 
 
 import java.util.Random;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import ru.spbstu.telematics.java.lab1.normalRandomer;
 
 public class AppTest
 {
