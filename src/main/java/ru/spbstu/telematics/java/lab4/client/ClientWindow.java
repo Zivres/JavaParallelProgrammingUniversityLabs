@@ -63,9 +63,8 @@ public class ClientWindow extends JFrame {
     		if(mes.equals("__exit"))
     				mes=" __exit";
     	}
-    	for (int i=0;i<10;i++){
     	out.println(mes);
-        out.flush();}
+        out.flush();
         clientMessage.setText("");
     }
     
